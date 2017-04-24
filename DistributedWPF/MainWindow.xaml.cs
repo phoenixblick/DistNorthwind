@@ -89,6 +89,7 @@ namespace DistributedWPF
 
         private string UpdatePrice(TextBox txtNewPrice, ref Product product, ref bool updateResult)
         {
+            //Test
             string result = "";
 
             try
