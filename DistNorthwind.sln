@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistNorthwindService", "Dis
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistributedWPF", "DistributedWPF\DistributedWPF.csproj", "{AE23C50D-1E23-4EB2-B9E0-6B65BDE9550B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfMVVM", "WpfMVVM\WpfMVVM.csproj", "{784A2614-3E62-467E-9CD4-2609A1BB045D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVVMController", "MVVMController\MVVMController.csproj", "{4F4F860D-177D-499C-A769-ECE33B0CBBFB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{AE23C50D-1E23-4EB2-B9E0-6B65BDE9550B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE23C50D-1E23-4EB2-B9E0-6B65BDE9550B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE23C50D-1E23-4EB2-B9E0-6B65BDE9550B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{784A2614-3E62-467E-9CD4-2609A1BB045D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{784A2614-3E62-467E-9CD4-2609A1BB045D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{784A2614-3E62-467E-9CD4-2609A1BB045D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{784A2614-3E62-467E-9CD4-2609A1BB045D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F4F860D-177D-499C-A769-ECE33B0CBBFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F4F860D-177D-499C-A769-ECE33B0CBBFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F4F860D-177D-499C-A769-ECE33B0CBBFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F4F860D-177D-499C-A769-ECE33B0CBBFB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
